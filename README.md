@@ -89,4 +89,11 @@ Tools & Technologies Used
 
 8. Text Processing Tools – Such as CountVectorizer and TfidfVectorizer for converting text into numerical form.
    #output
+   ![Image](https://github.com/user-attachments/assets/df99c3c7-eb38-41f8-b5e8-3616c27b573d)
+
+![Image](https://github.com/user-attachments/assets/7858e885-379c-403f-aefa-b20b71d3df0a)
+
+![Image](https://github.com/user-attachments/assets/79496868-bff2-4ef7-a2a1-6dd480f62558)
+
+![Image](https://github.com/user-attachments/assets/9365a80f-7ac4-4bd6-adbc-49cf353ef2a4)
    
